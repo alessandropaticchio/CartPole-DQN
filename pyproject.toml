@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cartpolerl"
+version = "0.1.0"
+description = ""
+authors = ["alessandro.paticchio <alessandropaticchio@gmail.com>"]
+
+
+[tool.poetry.dependencies]
+python = "3.9.14"
+numpy = "^1.23.2"
+torch = "1.12.1"
+torchvision = "0.13.1"
+gym = "0.21.0"
+matplotlib = "^3.6.1"
+Pillow = "^9.3.0"
+ipython = "^8.6.0"
+pyglet = "^1.5.27"
